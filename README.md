@@ -1,4 +1,4 @@
 Здесь все проекты для Hikka
 Установка: 
 
-  Kriper.py: https://raw.githubusercontent.com/HikkaModules/HikkaProjects/main/Kriper.py
+  Kriper.py: .dlm https://raw.githubusercontent.com/HikkaModules/HikkaProjects/main/Kriper.py
