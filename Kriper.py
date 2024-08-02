@@ -16,7 +16,7 @@ class Kriper(loader.Module):
 		time.sleep(3)
 		await utils.answer(message, "Прилепили на себя алмазы по приколу")
 		time.sleep(3)
-		await utils.answer(message, "А навстречу им влачился слишком грустный школькик")
+		await utils.answer(message, "А навстречу им влачился слишком грустный школьник")
 		time.sleep(3)
 		await utils.answer(message, "Мальчик, что с тобой случилось?")
 		time.sleep(2)
