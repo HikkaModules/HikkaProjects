@@ -11,3 +11,9 @@ TermuxKiller:
 ```
 .dlm https://raw.githubusercontent.com/HikkaModules/HikkaProjects/main/TermuxKiller%5BHikkaModule%5D.py
 ```
+# If something doesn't work
+**Open a new `issue`**
+# Module Source
+All plugins are stored in this repository, you can easily view their code and download them as a file
+# Information
+**We are not super module programmers, we can write code that would be better written differently if you want to help the plugin is not working or something else, open the issue**
