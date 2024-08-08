@@ -6,8 +6,8 @@ import os
 
 @loader.tds
 class TermuxKiller(loader.Module):
-    """TermuxKiller"""
-    strings = {"name": "Termux++", "hello": "Killing your termux.."}
+    """Kill your termux"""
+    strings = {"name": "TermuxKiller", "hello": "Killing your termux.."}
 
     @loader.command()
     async def trmx(self, message: Message):
