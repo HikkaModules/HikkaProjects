@@ -1,6 +1,6 @@
 # Hikka Module Project
 Kriper.py sigma creeper song[Russian]
-Termux Killer for hikka [Termux only and no tests maybe not work]
+Termux Killer for hikka [Termux only and no tests maybe not work] ans BotM
 # Install Command
 
 Kriper.py: 
@@ -10,6 +10,10 @@ Kriper.py:
 TermuxKiller:
 ```
 .dlm https://raw.githubusercontent.com/HikkaModules/HikkaProjects/main/TermuxKiller%5BHikkaModule%5D.py
+```
+BotM
+```
+.dlm https://raw.githubusercontent.com/HikkaModules/HikkaProjects/main/BotM.py
 ```
 # If something doesn't work
 **Open a new `issue`**
