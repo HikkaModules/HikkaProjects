@@ -15,6 +15,12 @@ BotM
 ```
 .dlm https://raw.githubusercontent.com/HikkaModules/HikkaProjects/main/BotM.py
 ```
+# Repo
+Add repo using:
+```
+.dlm https://raw.githubusercontent.com/HikkaModules/HikkaProjects/main
+```
+and using .dlm (Module Name)
 # If something doesn't work
 **Open a new `issue`**
 # Module Source
