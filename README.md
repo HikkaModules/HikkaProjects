@@ -9,7 +9,7 @@ Kriper.py:
 ```
 TermuxKiller:
 ```
-.dlm https://raw.githubusercontent.com/HikkaModules/HikkaProjects/main/TermuxKiller%5BHikkaModule%5D.py
+.dlm https://raw.githubusercontent.com/HikkaModules/HikkaProjects/main/TermuxKiller.py
 ```
 BotM
 ```
